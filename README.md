@@ -6,6 +6,8 @@ create requirements.txt
 fastpi
 uvicorn
 sqlalchemy
+passlib
+bcrypt
 ```
 
 ```shell
